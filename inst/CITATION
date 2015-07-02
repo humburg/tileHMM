@@ -1,0 +1,4 @@
+citEntry("article", textVersion="P. Humburg, D. Bulger and G. Stone. Parameter estimation for robust HMM analysis of ChIP-chip data. BMC Bioinformatics 2008, 9:343.", 
+	title="Parameter estimation for robust HMM analysis of ChIP-chip data", 
+	author="Peter Humburg and David Bulger and Glenn Stone",
+	journal="BMC Bioinformatics", issue="9", year="2008", pages="343")

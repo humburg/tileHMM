@@ -3,8 +3,8 @@ Type: Package
 Title: Hidden Markov Models for ChIP-on-Chip Analysis
 Version: 1.0-7
 Date: 2015-07-01
-Author: Peter Humburg
-Maintainer: Peter Humburg <Peter.Humburg@well.ox.ac.uk>
+Authors@R: person("Peter", "Humburg", email="peter.humburg@gmail.com",
+		role=c("aut", "cre"))
 Description: Methods and classes to build HMMs
         that are suitable for the analysis of ChIP-chip data. The
         provided parameter estimation methods include the Baum-Welch

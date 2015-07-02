@@ -412,7 +412,6 @@ shrinkt.st <- function(X,L,h0.mean=0,...){
 		stop("Group ", names(tbl)[which.min(tbl)], " contains only one sample. At least two samples are required per group.")
 	}
 	
-	require(st)
 	if(max(L) == 1){	
 		shrink.var <- var.shrink(t(X))
 		means <- apply(X,1,mean)

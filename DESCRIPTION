@@ -11,7 +11,8 @@ Description: Methods and classes to build HMMs
         algorithm and Viterbi training as well as a combination of
         both.
 Depends: R (>= 2.14.2), methods
-Suggests: st, preprocessCore
+Imports: st
+Suggests: preprocessCore
 License: GPL (>= 2)
 BugReports: https://github.com/humburg/tileHMM/issues
 

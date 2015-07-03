@@ -27,3 +27,4 @@ env:
   global:
     - _R_CHECK_CRAN_INCOMING_=FALSE
     - WARNINGS_ARE_ERRORS=TRUE
+

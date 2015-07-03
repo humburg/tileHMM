@@ -1,7 +1,7 @@
 Package: tileHMM
 Type: Package
 Title: Hidden Markov Models for ChIP-on-Chip Analysis
-Version: 1.0-7
+Version: 1.0-8
 Date: 2015-07-01
 Authors@R: person("Peter", "Humburg", email="peter.humburg@gmail.com",
 		role=c("aut", "cre"))

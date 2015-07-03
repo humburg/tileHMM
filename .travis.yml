@@ -24,4 +24,5 @@ env:
   matrix:
     - RVERSION=release
     - RVERSION=devel
-  - _R_CHECK_CRAN_INCOMING_=FALSE
+  global:
+    - _R_CHECK_CRAN_INCOMING_=FALSE
